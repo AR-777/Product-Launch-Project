@@ -25,11 +25,9 @@ Six months post-launch, leadership requested a deep-dive analysis of customer be
 -	Recommend strategies for product and marketing optimization
  
 ## Data Model Summary
-Table Name	Key Columns
-users	user_id, age, gender, state
-orders	order_id, user_id, purchase_date, purchase_timing, channel, pro_version, revenue_usd
-features_used	order_id, binary flags for each feature (5 total)
-feedback	order_id, user_rating, app_sessions_first_week, minutes_used_per_day, days_active_in_first_month
+
+<img width="1940" height="580" alt="image" src="https://github.com/user-attachments/assets/0fbdcfa4-2e5a-429d-b47f-930b62eaf9b0" />
+
 
 ## Key Insights
 
