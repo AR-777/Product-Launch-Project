@@ -8,6 +8,11 @@
 - Average user rating was 3.7, with low first-week engagement strongly linked to poor satisfaction.
 - Recommendations include upselling sleep-focused users, improving onboarding, and doubling down on top-performing states.
 
+### Interactive Dashboard
+View the full dashboard on [Tableau Public](https://public.tableau.com/app/profile/aj8618/viz/ProductPerformanceDashboard_17591950974860/Dashboard).  
+*add screenshot of dashboard*
+
+
 ## Background Overview
 As a Data Analyst at Neurowear, a wearable tech company focused on cognitive wellness, I was tasked with evaluating the post-launch performance of our first consumer product: the Halo One. This smart headband helps users improve focus, sleep quality, and mental resilience using biometric feedback and real-time app support.
 The product was officially launched on January 1, 2023 across the United States.
@@ -43,11 +48,13 @@ Six months post-launch, leadership requested a deep-dive analysis of customer be
  
 ### Early Buyers Are More Engaged
 -	Early adopters (Week 1–2) represented ~20% of all orders
--	Month 2–3 buyers and Late adopters (post-Month 3) each made up ~30% of orders
+-	Month 2–3 buyers and Late adopters (post-Month 3) each made up ~29% of orders
 -	Across all buyer segments, engagement remained steady:
 -	Average sessions in the first month: ~16
 -	Average daily minutes of usage: ~270
- 
+
+<img width="391" height="91" alt="Screenshot 2025-10-03 at 8 26 10 PM" src="https://github.com/user-attachments/assets/d76bebe1-27fe-4f20-b922-d23ec385af3f" />
+   
 ### Usage Behavior Mirrors Feature Enablement
 -	Users who enabled Sleep Tracking averaged ~440 minutes/day
 -	Users without Sleep Tracking averaged ~55 minutes/day
@@ -57,13 +64,23 @@ Six months post-launch, leadership requested a deep-dive analysis of customer be
 -	Average user rating across all users was ~3.7
 -	Users with fewer than 2 sessions in the first month were disproportionately represented among 1–2 star ratings, suggesting early churn is linked to dissatisfaction
  
-## Recommendations
-1.	Upsell Sleep-Focused Users to Pro
-o	Many base users heavily using Sleep Tracking could benefit from Pro-only coaching features
-2.	Target Low-Session Users for Intervention
-o	Users with ≤1 session in the first week had lower retention — use onboarding reminders or app walkthroughs
-3.	Promote in High-Converting States
-o	States like California, Texas, and New York had the highest sales volumes — double down on regional targeting
-4.	Feature-Level Satisfaction Surveys
-o	To refine product direction, consider capturing satisfaction for individual features like Focus Mode or Coaching
+## Recommendations 
+
+1. **Upsell Sleep-Focused Users to Pro**  
+- Users who enabled Sleep Tracking showed significantly higher engagement (~440 minutes/day vs. ~55), demonstrating the feature's impact on retention.  
+   - *Strategy:* Target high-engagement base users with personalized Pro upgrade campaigns highlighting Pro-only features like Mood Analysis and Cognitive Coaching.  
+
+2. **Improve Onboarding for Low-Session Users**  
+- Users with fewer than 2 sessions in their first month gave lower ratings (1–2 stars), showing a poor initial experience is tied to dissatisfaction and churn.  
+   - *Strategy:* Deploy automated onboarding flows — app walkthroughs, push reminders, and welcome email sequences in the first week.  
+
+3. **Expand Focus in High-Converting States**  
+- States like New York, Texas, and Florida outperformed others in total sales.  
+   - *Strategy:* Increase paid media and local partnerships in those regions.  
+
+4. **Capture Feature-Level Satisfaction**  
+- Current feedback is collected at the overall product level, but user sentiment may vary widely by feature. Capturing insights per feature will help identify which tools drive the most value and which need refinement.  
+   - *Strategy:* Add short in-app micro-surveys tied to individual features to guide development priorities.  
+ 
+
  
