@@ -10,7 +10,8 @@
 
 ### Interactive Dashboard
 View the full dashboard on [Tableau Public](https://public.tableau.com/app/profile/aj8618/viz/ProductPerformanceDashboard_17591950974860/Dashboard).  
-*add screenshot of dashboard*
+![Screenshot 2025-10-06 at 7 56 08 PM](https://github.com/user-attachments/assets/ef5a9515-5a38-4992-8171-b8f9a4567035)
+
 
 
 ## Background Overview
